@@ -128,4 +128,10 @@ h1 {
 
 }
 
-
+@media screen  and (max-width: 483px) {
+    h1 {
+            margin: 1rem 0.2rem;
+            font-size: 8.5vh;
+            max-height: 10rem;
+        }
+}
